@@ -1,8 +1,9 @@
 #ifndef STACK_HEADER
 #define STACK_HEADER
 /* --------------------------------------------------------
- * header for a stack program
+ * header for stack program
  * Axl Estevez
+ * File - stack_header.h
  * --------------------------------------------------------
 */
 
