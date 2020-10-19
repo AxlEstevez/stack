@@ -11,6 +11,10 @@ int main(int argc, char *argv[]) {
 	for(i = 1; i <= 10; i++){
 		push(&stack, i);
 	}
-	printf("%d\n",pop(&stack) );
+	
+	for(i = 0; i <= 10; i++){
+		printf( "%d\n",pop(&stack) );		
+	}
+
 	return 0;
 }
