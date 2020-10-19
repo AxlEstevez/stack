@@ -4,4 +4,4 @@
 
 A stack is a spatial data structure in which only nodes can be inserted and removed
 
-These characteristics are what give it the list name fifo (first in, first out) that refers to the fact that the first element that enters is the first that leaves
+These characteristics are what give it the list name lifo ( del ingles last in, first out) that refers to the fact that the first element that enters is the first that leaves
